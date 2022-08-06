@@ -1,0 +1,14 @@
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.exe
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.deps.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.runtimeconfig.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.runtimeconfig.dev.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.dll
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.pdb
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.csproj.AssemblyReference.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.AssemblyInfoInputs.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.AssemblyInfo.cs
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.csproj.CoreCompileInputs.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.dll
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.pdb
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3MemoryStream\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.genruntimeconfig.cache
